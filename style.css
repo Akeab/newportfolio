@@ -1,0 +1,99 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background-image:linear-gradient( 95deg,#ffa69e,#861657);
+}
+ul a:hover{
+    box-shadow: 0 0 5px 5px rgba(0, 0,0, .4);
+    border-radius: 10px;
+}
+.underline{
+    height:3px;
+    width: 100%;
+    background-color: hsl(250, 66%, 75%);
+}
+.img{
+    box-shadow: 0 0 8px 5px rgba(0, 0, 0, .4);
+ border-radius: 10px;
+}
+.home{
+    text-align: center;
+   height: 100%;
+  
+}.me{
+    width: 30px;
+    height: 30px;
+}
+.me:hover{
+  
+    width: 40px;
+    height: 40px;
+}
+.about{
+   
+   text-align: center;
+}
+.text{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+   
+}
+.front{
+    text-align: center  ;
+    box-shadow: 0 0 8px 5px rgba(0, 0, 0, .4);
+    border-radius: 15px;
+    background-color:  hsl(240, 3%, 22%);
+}
+.back{
+    text-align: center;
+    box-shadow: 0 0 8px 5px rgba(0, 0, 0, .4);
+    background-color:  hsl(240, 3%, 22%);
+    border-radius: 15px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.serv{
+    box-shadow: 0 0 8px 5px rgba(0, 0, 0, .4);
+    background-color:  hsl(240, 3%, 22%);
+    border-radius: 15px;
+
+}
+.form{
+    background-color:  hsl(240, 3%, 40%);
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 6px;
+    border: none;
+}
+.bton{
+    width: 150px;
+    border-radius: 5px;
+    height: 50px;
+    background-color:  hsl(240, 2%, 48%);
+}
+.email{
+    background-color:  hsl(240, 3%, 22%);
+    margin-bottom: 10px;
+    border-radius: 6px;
+    color: rgb(180, 177, 174);
+}
+.imgs{
+    width: 20px;
+    height: 20px;
+}
+.contact{
+    text-align: center;
+}
+.footer{
+    align-items: center;
+    text-align: center;
+}
